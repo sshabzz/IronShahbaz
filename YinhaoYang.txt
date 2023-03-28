@@ -1,0 +1,3 @@
+I enrolled in Ironhack's Data Analytics course because I want to be a data scientist in Fin-tech.
+My dream company would be ING.
+git switch classmate
